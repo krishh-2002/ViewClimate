@@ -20,5 +20,9 @@
 
 
 
+![Screenshot 2024-07-02 101644](https://github.com/krishh-2002/ViewClimate/assets/114737107/3111c1c0-4e58-4ee7-b35d-e6e1e782049a)
+![Screenshot 2024-07-02 101623](https://github.com/krishh-2002/ViewClimate/assets/114737107/51ab746e-f0e1-4863-ae7e-e28556030cd9)
+![Screenshot 2024-07-02 101538](https://github.com/krishh-2002/ViewClimate/assets/114737107/371bb9f7-1338-4c92-97f2-88853bbc8914)
+![Screenshot 2024-07-02 101703](https://github.com/krishh-2002/ViewClimate/assets/114737107/a6e2b46d-cd43-4bf2-972e-2bcae56705ae)
 
 
