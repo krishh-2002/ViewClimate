@@ -25,17 +25,11 @@
 
 ### Snapshot
 
-* Default 
-<img src="ss/demo1.png" width="100%">
-
-* when you entered any valid city
- <img src="ss/demo.png" width="100%">
-
-* when you did'nt entered anything 
- <img src="ss/empty.png" width="100%">
-
-* when entered city did'nt matched with data
- <img src="ss/bad.png" width="100%">
 
 
+
+![bad](https://github.com/krishh-2002/ViewClimate/assets/114737107/c17bb75b-e956-4371-b7b3-7f899e9e8eb8)
+![empty](https://github.com/krishh-2002/ViewClimate/assets/114737107/b5f63733-db93-4212-acd0-a64f455d4f8d)
+![demo1](https://github.com/krishh-2002/ViewClimate/assets/114737107/c900eae8-14de-4020-884b-33dcb6562dbe)
+![demo](https://github.com/krishh-2002/ViewClimate/assets/114737107/8e5803f9-ebcd-4aaa-8b01-c1528a07779d)
 
